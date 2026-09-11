@@ -53,7 +53,7 @@ export const booking = {
   //   form send real emails. Leave it empty and the form falls back to
   //   opening the visitor's own email app instead, pre-filled with what they
   //   typed — so the form still "works" with zero setup.
-  formAccessKey: '',
+  formAccessKey: 'a58b3542-cd9b-4027-926f-790572a01f20',
   enquiryResponseTime: 'within one business day',
 } as const;
 
